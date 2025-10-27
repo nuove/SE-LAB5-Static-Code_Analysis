@@ -1,4 +1,0 @@
-Static code analysis is a crucial technique that involves examining source code without executing it to find potential bugs, vulnerabilities, and style violations. This lab will guide you through using three industry-standard Python static analysis tools:
-Pylint: Your "strict code reviewer" for code quality and logical errors. It flags issues like unused variables, poor practices, and potential design flaws.
-Flake8: Your "grammar checker" for Python code, enforcing PEP 8 style guidelines. It combines checks for formatting, whitespace, line length, and syntax issues.
-Bandit: Your "app's security guard" for Python, identifying common security vulnerabilities. It detects dangerous functions and insecure coding patterns.
